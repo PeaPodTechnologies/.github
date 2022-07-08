@@ -12,7 +12,7 @@ Reach out! contact@peapodtech.com
 
 ## PeaPod
 
-<a href="https://github.com/PeaPodTechnologies/PeaPod" target="_blank"><img src="./assets/peapod.png" width=75% style="border: 5px solid #333"/></a>
+<a href="https://github.com/PeaPodTechnologies/PeaPod" target="_blank"><img src="/profile/assets/peapod.png" width=75% style="border: 5px solid #333"/></a>
 
 PeaPod is a controlled-environment agriculture framework, designed as both an automated food production system and a distributed citizen-science research tool.
 
@@ -20,7 +20,7 @@ This design was submitted to Phase 1 of the NASA/CSA Deep Space Food Challenge, 
 
 ## CloudPonics
 
-<a href="https://github.com/PeaPodTechnologies/CloudPonics" target="_blank"><img src="./assets/cloudponics.svg" width=75%/></a>
+<a href="https://github.com/PeaPodTechnologies/CloudPonics" target="_blank"><img src="/profile/assets/cloudponics.svg" width=75%/></a>
 
 CloudPonics is a dashboard for remote configuration and monitoring of PeaPod systems, with the eventual goal of integration with other controlled-environment agriculture frameworks. In the dashboard, you can view captured data (environment conditions, timelapses) as well as a live feed.
 
