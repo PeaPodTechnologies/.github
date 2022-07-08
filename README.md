@@ -1,2 +1,2 @@
-# .github
+# Project PeaPod
 Project PeaPod organization profile.
